@@ -1,0 +1,47 @@
+
+body{
+    background: white;
+}
+
+
+footer{
+    min-height: 5em;
+}
+
+li{
+    font-size: 18px;
+}
+
+label{
+    font-style: oblique;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+#header{
+    margin-bottom: 30px;
+    font-weight: bold;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color: rgb(16, 47, 104);
+}
+
+input{
+    margin-bottom: 10px;
+}
+
+#search-row{
+    margin-top: 75px;
+}
+
+#search-btn{
+    color: white;
+    font-weight: bold;
+    font-size: larger;
+}
+
+/*
+Link{
+    color: white;
+    https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9x93QN1NF9OsFTvgHIBLd7KUM1B8fkVTwpA&usqp=CAU;
+}
+*/
